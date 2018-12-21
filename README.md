@@ -13,3 +13,6 @@ pip instal youtube_dl
 ```
 ##### Opção 2:
 > https://github.com/rg3/youtube-dl
+
+##### Em breve
+> Interface grafica
