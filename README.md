@@ -1,5 +1,5 @@
 # YTBmp3
-![align=center](https://i.imgur.com/l0rVfei.png)
+![](https://i.imgur.com/l0rVfei.png)
 #### Nome: YTBmp3
 #### Descrição: A aplicação baixa o video do YouTube e converte para MP3
 #### Uso: Só é preciso executar via terminal e digitar a URL do video e dar enter, o video vai ser baixado e convertido na raiz do arquivo
